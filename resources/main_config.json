@@ -1,0 +1,6 @@
+{
+  "subscriptionFilters": {
+    "toAddress": "0x0000000000000000000000000000000000000000",
+    "fromAddress": null
+  }
+}

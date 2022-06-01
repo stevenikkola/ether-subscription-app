@@ -1,0 +1,4 @@
+{
+  "websocketsCloudApiBaseUri": "wss://api.blxrbdn.com/ws",
+  "authorizationHeader": "aabbccddeeffgg"
+}
