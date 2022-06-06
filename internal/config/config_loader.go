@@ -28,8 +28,10 @@ func GetMainConfig() MainConfig {
 }
 
 type BloxrouteConfig struct {
-	WebsocketsCloudApiBaseUri string
-	AuthorizationHeader       string
+	EnterpriseSubscriptionEnabled bool
+	EnterpriseSubscriptionUrl     string
+	ProfessionalSubscriptionUrl   string
+	AuthorizationKey              string
 }
 
 type MainConfig struct {
