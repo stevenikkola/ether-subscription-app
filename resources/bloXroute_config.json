@@ -1,4 +1,6 @@
 {
-  "websocketsCloudApiBaseUri": "wss://api.blxrbdn.com/ws",
-  "authorizationHeader": "aabbccddeeffgg"
+  "enterpriseSubscriptionEnabled": true,
+  "enterpriseSubscriptionUrl": "wss://virginia.eth.blxrbdn.com/ws",
+  "professionalSubscriptionUrl": "wss://api.blxrbdn.com/ws",
+  "authorizationKey": "aabbccddeeffgg"
 }
